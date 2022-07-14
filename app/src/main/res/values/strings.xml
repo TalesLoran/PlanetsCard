@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Planets Card</string>
+    <string name="label_planets_card">Cartões de Planetas</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_distância">Distância do Sol</string>
+    <string name="label_atmosfera">Atmosfera</string>
+    <string name="label_característica">Característica</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_confirmar">Confirmar</string>
+    <string name="label_show_sucess">Cartão cadastrado com sucesso.</string>
+    <string name="label_share">Compartilhar</string>
+</resources>
